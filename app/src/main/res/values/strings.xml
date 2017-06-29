@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NetSpeedTest</string>
+    <string-array name="server_list">
+        <item>Server 1</item>
+        <item>Server 2</item>
+        <item>Server 3</item>
+        <item>Server 4</item>
+        <item>Server 5</item>
+    </string-array>
+    <string name="title_activity_graph_view">Network Speed Response</string>
+</resources>
